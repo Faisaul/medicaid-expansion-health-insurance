@@ -68,12 +68,15 @@ tables/
     descriptive_statistics.csv
     did_results.csv
     pretrend_tests.csv
+```
 
-Software
-R
-tidyverse
-fixest
-jsonlite
-Notes
+## Software
 
-This is an independent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.
+- R
+- tidyverse
+- fixest
+- jsonlite
+
+## Notes
+
+This is an independent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.dependent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.
