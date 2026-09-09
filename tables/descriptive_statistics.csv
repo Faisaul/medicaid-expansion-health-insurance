@@ -1,0 +1,3 @@
+group,states,observations,average_uninsured_rate,sd_uninsured_rate,min_uninsured_rate,max_uninsured_rate
+Non-expansion states,10,140,18.41173674835599,5.578367054021585,6.58683020057786,31.40170424348076
+2014 expansion states,27,378,11.96682217614973,5.747788426176388,3.2551165965966904,28.63257136843933
