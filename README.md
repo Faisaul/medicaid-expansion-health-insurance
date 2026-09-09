@@ -79,4 +79,4 @@ tables/
 
 ## Notes
 
-This is an independent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.dependent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.
+This is an independent research project. The analysis is intended as an applied exercise in health economics, causal inference, and working with public health insurance data.
